@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\APIREST01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8D6540-7DA1-413A-BE7F-56B1E7C6A233}|APIREST01\\APIREST01.csproj|c:\\users\\ferna\\desktop\\apirest01\\apirest01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A8D6540-7DA1-413A-BE7F-56B1E7C6A233}|APIREST01\\APIREST01.csproj|solutionrelative:apirest01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8D6540-7DA1-413A-BE7F-56B1E7C6A233}|APIREST01\\APIREST01.csproj|c:\\users\\ferna\\desktop\\apirest01\\apirest01\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8D6540-7DA1-413A-BE7F-56B1E7C6A233}|APIREST01\\APIREST01.csproj|solutionrelative:apirest01\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C0AC4F-51A2-49DB-9BE4-19FC871590F4}|CapaDatos\\CapaDatos.csproj|c:\\users\\ferna\\desktop\\apirest01\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C0AC4F-51A2-49DB-9BE4-19FC871590F4}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|c:\\users\\ferna\\desktop\\apirest01\\capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|c:\\users\\ferna\\desktop\\apirest01\\capamodelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C0AC4F-51A2-49DB-9BE4-19FC871590F4}|CapaDatos\\CapaDatos.csproj|c:\\users\\ferna\\desktop\\apirest01\\capadatos\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C0AC4F-51A2-49DB-9BE4-19FC871590F4}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|c:\\users\\ferna\\desktop\\apirest01\\capamodelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|c:\\users\\ferna\\desktop\\apirest01\\capamodelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15E0BC-5F97-4F35-BB0A-D56514625323}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\APIREST01\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "APIREST01\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\APIREST01\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "APIREST01\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Categoria.cs",
+              "RelativeToolTip": "CapaModelo\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cd_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaDatos\\Cd_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Cd_Categoria.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaDatos\\Cd_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\Cd_Categoria.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAA9wCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaDatos\\Connection.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Connection.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaDatos\\Connection.cs",
+              "RelativeToolTip": "CapaDatos\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\APIREST01\\appsettings.json",
+              "RelativeDocumentMoniker": "APIREST01\\appsettings.json",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\APIREST01\\appsettings.json",
+              "RelativeToolTip": "APIREST01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T01:49:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Cliente.cs",
+              "RelativeToolTip": "CapaModelo\\Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Proveedor.cs",
+              "RelativeToolTip": "CapaModelo\\Proveedor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\Producto.cs",
+              "RelativeToolTip": "CapaModelo\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:49:36.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7bDcwDq9GVRgnEAJh68uwCH2ITNoEpAVf4W8LE+Ncrdgzf+aZMw/mRHO5iqP035pmq+Z/kn/Z4nQ5qjLvAqeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\Desktop\\APIREST01\\CapaModelo\\CapaModelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
